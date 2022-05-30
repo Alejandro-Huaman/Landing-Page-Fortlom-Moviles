@@ -423,3 +423,12 @@
     display: none;
   }
 }
+.pithcstyle{
+ text-align: center;
+}
+.calltoactionbutton{
+  text-align: center;
+  font-size: 1.4em;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+  "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
